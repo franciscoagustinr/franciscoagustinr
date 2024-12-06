@@ -1,7 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> What's up? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Upside%20Down%20Face.webp" alt="Upside Down Face" width="40" height="40" />
 
 ###
-<img width="40%" align="right" src="https://github.com/franciscoagustinr/francisco-portfolio/blob/master/src/assets/francisco-photo.png"  alt="Francisco"  />
 <p align="left">My name is <b>Francisco Agustín Rodríguez</b> and I'm a frontend web developer, from Buenos Aires, Argentina <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mate.png" alt="Mate" width="20" height="20" />🇦🇷</p>
 <br/>
 
