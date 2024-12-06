@@ -4,7 +4,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:rodriguezfranciscoa@hotmail.com)
 ###
 My name is <b>[Francisco Agustín Rodríguez](https://franciscoagustinr.github.io/)</b>  <br/>
-I'm a frontend web developer from Buenos Aires, Argentina ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mate.png" alt="Mate" width="20" height="20" />🇦🇷
+I'm a frontend web developer from Buenos Aires, Argentina <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mate.png" alt="Mate" width="20" height="20" />🇦🇷
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />
   Creating bugs since 1995  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> 
