@@ -23,6 +23,8 @@ I'm a frontend web developer from Buenos Aires, Argentina ! <img src="https://ra
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" alt="zustand logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
