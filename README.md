@@ -18,9 +18,6 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" alt="Maracas" width="40" height="40" /> Fun fact: Beto is my loyal sidekick <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="30" height="30" /> </p>
 <br/>
 
-<a href="https://github.com/franciscoagustinr">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoagustinr" width="350"/>
-</a>
 
 <div align="left">
 <div align="left">
