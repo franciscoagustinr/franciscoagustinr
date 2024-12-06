@@ -10,16 +10,16 @@
 
 <br/>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />
   Creating bugs since 1995  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="30" height="30" /> 
  <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Light%20Skin%20Tone.png" alt="Man Cartwheeling Light Skin Tone" width="40" height="40" />Currently learning <a href='https://reactnative.dev/'>ReactNative</a> & <a href='https://threejs.org/'>ThreeJS</a> (<a href='https://r3f.docs.pmnd.rs/getting-started/introduction'>R3F</a>) in deeper <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Merman%20Light%20Skin%20Tone.png" alt="Merman Light Skin Tone" width="40" height="40" /><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" alt="Maracas" width="40" height="40" /> Fun fact: Beto is my loyal sidekick <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="30" height="30" /> </p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Light%20Skin%20Tone.png" alt="Man Cartwheeling Light Skin Tone" width="25" height="25" />Currently learning <a href='https://reactnative.dev/'>ReactNative</a> & <a href='https://threejs.org/'>ThreeJS</a> (<a href='https://r3f.docs.pmnd.rs/getting-started/introduction'>R3F</a>) in deeper <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Merman%20Light%20Skin%20Tone.png" alt="Merman Light Skin Tone" width="30" height="30" /><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Maracas.png" alt="Maracas" width="25" height="25" /> Fun fact: Beto is my loyal sidekick <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" /> </p>
 <br/>
 
 
-<div align="left">
-<div align="left">
+<div align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
