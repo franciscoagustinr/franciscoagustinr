@@ -1,15 +1,13 @@
-# Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> What's up? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Upside%20Down%20Face.webp" alt="Upside Down Face" width="40" height="40" />
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/franciscoagustinr)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franciscoagustinr/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:rodriguezfranciscoa@hotmail.com)
-###
-My name is <b>[Francisco Agustín Rodríguez](https://franciscoagustinr.github.io/)</b>  <br/>
+# Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> What's up? 
+
+### 
+My name is <b>[Francisco Agustín Rodríguez](https://franciscoagustinr.github.io/)</b>   <a href='https://franciscoagustinr.github.io/'><img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/francisco-portfolio/blob/master/src/assets/francisco-photo.png" width="100" height="100" /></a>
+  <br/>
 I'm a frontend web developer from Buenos Aires, Argentina <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mate.png" alt="Mate" width="20" height="20" />🇦🇷
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />
   Creating bugs since 1995  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> 
  <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Light%20Skin%20Tone.png" alt="Man Cartwheeling Light Skin Tone" width="30" height="30" />Currently learning <a href='https://reactnative.dev/'>ReactNative</a> & <a href='https://threejs.org/'>ThreeJS</a> (<a href='https://r3f.docs.pmnd.rs/getting-started/introduction'>R3F</a>) <i>in deeper</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Merman%20Light%20Skin%20Tone.png" alt="Merman Light Skin Tone" width="30" height="30" /><br>
+  Currently learning <a href='https://reactnative.dev/'>ReactNative</a> & <a href='https://threejs.org/'>ThreeJS</a> (<a href='https://r3f.docs.pmnd.rs/getting-started/introduction'>R3F</a>) <i>in deeper</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Light%20Skin%20Tone.png" alt="Man Cartwheeling Light Skin Tone" width="30" height="30" /><br>
 <br/>
 
 
@@ -64,20 +62,13 @@ I'm a frontend web developer from Buenos Aires, Argentina <img src="https://raw.
 <br/>
 <br/>
 
-<div align='center' width="100%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="50" height="50" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="50" height="50" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="50" height="50" />
-</div>
-<div align='center'>
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="120" height="120" />  
-  <a href='https://franciscoagustinr.github.io/'><img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/francisco-portfolio/blob/master/src/assets/francisco-fun-photo.png" width="250" height="250" /></a>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="120" height="120" />
-</div>
-<div align='center'>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Up Light Skin Tone" width="50" height="50" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Up Light Skin Tone" width="50" height="50" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Up Light Skin Tone" width="50" height="50" />
-</div>
+<div align="center">
+  
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/franciscoagustinr)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franciscoagustinr/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:rodriguezfranciscoa@hotmail.com)
 
-<br/>
-<br/>
+</div>
 
 <p align='center'>
  <img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="50" height="50" />  
@@ -89,4 +80,5 @@ I'm a frontend web developer from Buenos Aires, Argentina <img src="https://raw.
     <img align='center' alt="ViewCount Francisco's Profile" src="https://views.whatilearened.today/views/github/franciscoagustinr/franciscoagustinr.svg" width='100' />
   <img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="35" height="35" />
   <br/>
+<img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/francisco-portfolio/blob/master/src/assets/francisco-fun-photo.png" width="150" height="150" />
 </div>
