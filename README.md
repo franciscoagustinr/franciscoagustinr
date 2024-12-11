@@ -70,11 +70,6 @@ I'm a frontend web developer from Buenos Aires, Argentina <img src="https://raw.
 
 </div>
 
-<p align='center'>
- <img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="50" height="50" />  
-  <a href='https://cafecito.app/franciscoagustinr'> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="franciscoagustinr" /></a>  <img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="50" height="50" />  
-  <br/>
-</p>
 <div align='center'>
   <img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="35" height="35" />
     <img align='center' alt="ViewCount Francisco's Profile" src="https://views.whatilearened.today/views/github/franciscoagustinr/franciscoagustinr.svg" width='100' />
