@@ -1,7 +1,7 @@
 # Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> What's up? 
 
 ### 
-My name is <b>[Francisco Agustín Rodríguez](https://franciscoagustinr.github.io/)</b>   <a href='https://franciscoagustinr.github.io/'><img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/francisco-portfolio/blob/master/src/assets/francisco-photo.png" width="100" height="100" /></a>
+My name is <b>[Francisco Agustín Rodríguez](https://franciscoagustinr.github.io/)</b>   <a href='https://franciscoagustinr.github.io/'><img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/franciscoagustinr.github.io/blob/main/assets/francisco-photo-DPYqvkqR.png" width="150" height="150"  /></a>
   <br/>
 I'm a frontend web developer from Buenos Aires, Argentina <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mate.png" alt="Mate" width="20" height="20" />🇦🇷
 <p align="left">
@@ -75,5 +75,5 @@ I'm a frontend web developer from Buenos Aires, Argentina <img src="https://raw.
     <img align='center' alt="ViewCount Francisco's Profile" src="https://views.whatilearened.today/views/github/franciscoagustinr/franciscoagustinr.svg" width='100' />
   <img align='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="35" height="35" />
   <br/>
-<img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/francisco-portfolio/blob/master/src/assets/francisco-fun-photo.png" width="150" height="150" />
+<img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/franciscoagustinr.github.io/blob/main/assets/francisco-fun-photo-BhdS0O4o.png" width="150" height="150" />
 </div>
