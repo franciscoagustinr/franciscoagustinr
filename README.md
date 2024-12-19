@@ -1,9 +1,9 @@
 # Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /> What's up? 
 
-### 
-My name is <b>[Francisco Agustín Rodríguez](https://franciscoagustinr.github.io/)</b>   <a href='https://franciscoagustinr.github.io/'><img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/franciscoagustinr.github.io/blob/main/assets/francisco-photo-DPYqvkqR.png" width="150" height="150"  /></a>
-  <br/>
+### <p align='center'> My name is <b>[Francisco Agustín Rodríguez](https://franciscoagustinr.github.io/)</b>   <a href='https://franciscoagustinr.github.io/'><img align="center" alt='Francisco' src="https://github.com/franciscoagustinr/franciscoagustinr.github.io/blob/main/assets/francisco-photo-DPYqvkqR.png" width="100" height="100"  /></a><p>
+  <p>
 I'm a frontend web developer from Buenos Aires, Argentina <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mate.png" alt="Mate" width="20" height="20" />🇦🇷
+    </p>
 <p align="left">
   Creating bugs since 1995  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> 
  <br>
